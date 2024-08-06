@@ -4,8 +4,8 @@
 //support-url: https://t.me/hamedp71
 #profile-web-page-url: https://t.me/hamedvpns
 
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#✅✅
-warp://p1@auto?ifpm=m4#✅&&detour=warp://p2@auto#✅
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#شیلیلان&&detour=warp://p2@188.114.97.170:894#خدماتی حامد✅✅
+warp://p1@auto?ifpm=m4#تل قراسی✅&&detour=warp://p2@auto#خدماتی حامد✅
 
 xvless://1077a3fb-7ca7-4f5f-ad1b-775b9dab3ea8@185.146.173.58:8080/?type=httpupgrade&flow=&host=http2.bklink.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER
 xvless://1077a3fb-7ca7-4f5f-ad1b-775b9dab3ea8@185.146.173.58:8080/?type=httpupgrade&flow=&host=http2.bklink.iR.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER
