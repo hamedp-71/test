@@ -4,7 +4,7 @@
 //support-url: https://t.me/hamedp71
 #profile-web-page-url: https://t.me/hamedvpns
 
-vless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?path=%2Ftelegram%3Fed%3D2048&security=tls&encryption=none&host=zema-brand.ir&fp=randomized&type=ws&sni=speedtest-fr5.gcore.com#✅hamedvpns✅
+xvless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?path=%2Ftelegram%3Fed%3D2048&security=tls&encryption=none&host=zema-brand.ir&fp=randomized&type=ws&sni=speedtest-fr5.gcore.com#✅hamedvpns✅
 
 warp://[2606:4700:d0::ab3:962c:4787:c5a8]:945/?ifp=5-10#خدماتی حامد✅✅✅
 warp://[2606:4700:d0::3755:4d94:397b:6cb3]:3138/?ifp=5-10#خدماتی حامد✅✅✅
