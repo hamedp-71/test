@@ -4,8 +4,13 @@
 //support-url: https://t.me/hamedp71
 #profile-web-page-url: https://t.me/hamedvpns
 
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#شیلیلان&&detour=warp://p2@188.114.97.170:894#خدماتی حامد✅✅
-warp://p1@auto?ifpm=m4#تل قراسی✅&&detour=warp://p2@auto#خدماتی حامد✅
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#شیلیلان✅&&detour=warp://p2@188.114.97.170:894#خدماتی حامد✅✅
+warp://p1@auto?ifpm=m4#تل_قراسی✅&&detour=warp://p2@auto#خدماتی حامد✅
+warp://[2606:4700:d0::ab3:962c:4787:c5a8]:945/?ifp=5-10#خدماتی حامد✅✅✅
+warp://[2606:4700:d0::3755:4d94:397b:6cb3]:3138/?ifp=5-10#خدماتی حامد✅✅✅
+warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#خدماتی_حامد_1️⃣
+warp://auto?ifp=3-7&ifps=70-100&ifpd=30-60#خدماتی_حامد_2️⃣
+warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#خدماتی_حامد_3️⃣
 
 xvless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.94.168:8880/?type=ws&flow=&host=bpb.KmEVPs.iR&path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg
 xvless://92dc1a08-9db4-4551-8c15-8cb3edff26b7@65.109.204.30:8880/?type=httpupgrade&flow=&host=wEb.ArvAncLoud.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag
