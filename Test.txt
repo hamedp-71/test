@@ -6,10 +6,6 @@
 
 xvless://e1034c59-c944-4a60-bdba-8f9cea0324b1@92.223.124.29:443?path=%2Ftelegram%3Fed%3D2048&security=tls&encryption=none&host=zema-brand.ir&fp=randomized&type=ws&sni=speedtest-fr5.gcore.com#✅hamedvpns✅
 
-warp://[2606:4700:d0::ab3:962c:4787:c5a8]:945/?ifp=5-10#خدماتی حامد✅✅✅
-warp://[2606:4700:d0::3755:4d94:397b:6cb3]:3138/?ifp=5-10#خدماتی حامد✅✅✅
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#hamedvpns&&detour=warp://p2@188.114.97.170:894#hamedvpns-2
-
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@bpb-a-month-after-july.pages.dev:443?encryption=none&type=ws&host=Bpb-A-MonTh-AftER-jUly.PageS.dEV&security=tls&sni=Bpb-A-mONtH-afTEr-juLy.pages.dEV&fp=randomized&alpn=h2,http/1.1&path=/d7npADRPulURD0Ey%3Fed%3D2560#hamedvpns->1:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@www.speedtest.net:443?encryption=none&type=ws&host=BpB-a-Month-aFter-jUly.PAgEs.dEV&security=tls&sni=BPB-a-month-AFTeR-JUlY.PagES.DEV&fp=randomized&alpn=h2,http/1.1&path=/V8zosSVPrWs4QeBM%3Fed%3D2560#hamedvpns->2:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.246:443?encryption=none&type=ws&host=BPB-a-MOntH-aFTEr-july.pAgEs.dEv&security=tls&sni=bPB-a-moNTh-AFTEr-jULy.PAgES.dEV&fp=randomized&alpn=h2,http/1.1&path=/VHySyxODG6BiWe3R%3Fed%3D2560#hamedvpns->IPv4-1:443
