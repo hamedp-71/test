@@ -1,4 +1,4 @@
-//profile-title: base64:INiq2LPYqiDinaTwn6SN8J+Smg==
+//profile-title: تست ❤🤍💚
 //profile-update-interval: 1
 //subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732
 //support-url: https://t.me/hamedp71
