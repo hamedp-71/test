@@ -2,18 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
 #profile-web-page-url: @hamedvpns
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@mp1.pages.dev:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-443
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-443-turk.radicalization.ir-EDtunnel
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@mp1.pages.dev:8443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-8443
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-8443-turk.radicalization.ir-EDtunnel
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@mp1.pages.dev:2053?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2053
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2053-turk.radicalization.ir-EDtunnel
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@mp1.pages.dev:2096?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2096
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2096-turk.radicalization.ir-EDtunnel
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@mp1.pages.dev:2087?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2087
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2087-turk.radicalization.ir-EDtunnel
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@mp1.pages.dev:2083?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2083
-vless://b74325b8-505a-43d8-8ae9-c4ed7e1dc445@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-2083-turk.radicalization.ir-EDtunnel
+
 vless://2e585277-def8-4618-b38a-10184e178995@mp1.pages.dev:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-443
 vless://2e585277-def8-4618-b38a-10184e178995@turk.radicalization.ir:443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-443-turk.radicalization.ir-EDtunnel
 vless://2e585277-def8-4618-b38a-10184e178995@mp1.pages.dev:8443?encryption=none&security=tls&sni=mp1.pages.dev&fp=random&type=ws&host=mp1.pages.dev&path=%2F%3Fed%3D2048#mp1.pages.dev-HTTPS-8443
